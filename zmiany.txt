@@ -1,1 +1,5 @@
 SADSAA
+
+Zmiana do merge'a
+
+a2c74df3ea2bbf45d33a807001385269d7fc1368
